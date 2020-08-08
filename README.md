@@ -1,4 +1,3 @@
-### Software Developer, Musician, and Fine Art Photographer based in Austin, TX.
 <img src="https://imgur.com/fhzUgay.jpg" width=60% />
 
 I'm a Computer Science undergraduate at The University of Texas at Austin. I love software development and design and am working towards becoming a full time front end developer. I also study fine arts as a minor and enjoy finding ways to intersect the two passions with creative tools such as Raspberry PI, Arduino, and Processing.This is a collection of my programming and web related projects. 
