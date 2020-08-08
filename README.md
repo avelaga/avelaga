@@ -1,4 +1,5 @@
-### Hi there 👋
+### Software developer, musician, and fine art photographer based in Austin, TX.
+I study Computer Science and Fine Arts at The University of Texas at Austin as well as intern as a software engineer at Visa.
 
 <!--
 **avelaga/avelaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
