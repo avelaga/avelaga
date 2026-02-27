@@ -1,7 +1,11 @@
 <img src="https://imgur.com/fhzUgay.jpg" width=60% />
 
-Hi! I'm a full time software developer and Computer Science graduate of The University of Texas at Austin. I love software development, design, and art and enjoy finding ways to intersect my passions with creative tools such as Raspberry PI, Arduino, and Processing. 
+Hi! I’m a senior frontend engineer working at the intersection of engineering, design, and systems thinking.
+
+At Visa, I’ve helped shape a white-labeled component library powering multiple banking products and co-branded apps - defining scalable UI patterns adopted across teams. I’ve also shipped merchant-facing features with a focus on usability, accessibility, and performance at scale.
+
+I care deeply about craft - building interfaces that are not just functional, but cohesive, intuitive, and purposeful. I’m drawn to teams that value strong product judgment, thoughtful UX, and long-term maintainability.
 
 Visit my [my website](https://abhi.work) to see more of my work and for more details about my technical skills, check out my [resume](https://abhi.work/images/Resume.pdf) and [linkedin](https://www.linkedin.com/in/abhivelaga/).
 
-I also document useful techniques that I've developed or learned [here](https://github.com/avelaga?tab=repositories&q=demo&type=&language=&sort=).
+In my free time, I enjoy producing [youtube videos](https://www.youtube.com/@abhi.velaga) of my journey learning to work on and modify my car 
