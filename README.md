@@ -8,4 +8,4 @@ I care deeply about craft - building interfaces that are not just functional, bu
 
 Visit my [my website](https://abhi.work) to see more of my work and for more details about my technical skills, check out my [resume](https://abhi.work/images/Resume.pdf) and [linkedin](https://www.linkedin.com/in/abhivelaga/).
 
-In my free time, I enjoy producing [youtube videos](https://www.youtube.com/@abhi.velaga) of my journey learning to work on and modify my car 
+In my free time, I enjoy producing [youtube videos](https://www.youtube.com/@abhi.velaga) of my journey learning to work on and modify my car as well as music under the artist name [Indulgent](https://open.spotify.com/artist/7JCVu8JTFAFrHqnYnGVPhi?si=TYVH66LvSUmQcKdWaE73uw).
