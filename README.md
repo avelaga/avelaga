@@ -1,4 +1,4 @@
-<img src="https://www.abhi.work/images/home/mecrop.webp" width=50% />
+<img src="https://i.imgur.com/BBUL7Nr.jpeg" width=50% />
 
 Hi! I'm a senior frontend engineer specializing in design systems and UI architecture - with experience spanning founding-stage startup and enterprise level products.
 
