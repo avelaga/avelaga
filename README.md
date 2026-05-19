@@ -1,11 +1,9 @@
 <img src="https://imgur.com/fhzUgay.jpg" width=60% />
 
-Hi! I’m a senior frontend engineer working at the intersection of engineering, design, and systems thinking.
+Hi! I'm a senior frontend engineer specializing in design systems and UI architecture - with experience spanning founding-stage startup and enterprise level products.
 
-At Visa, I’ve helped shape a white-labeled component library powering multiple banking products and co-branded apps - defining scalable UI patterns adopted across teams. I’ve also shipped merchant-facing features with a focus on usability, accessibility, and performance at scale.
+I'm currently at [Biorce](htps://biorce.com) as their founding US frontend engineer, building our design system from the ground up. I was previously at Visa shipping core design system components and white-labeled products across a micro frontend architecture.
 
-I care deeply about craft - building interfaces that are not just functional, but cohesive, intuitive, and purposeful. I’m drawn to teams that value strong product judgment, thoughtful UX, and long-term maintainability.
+Visit my [my website](https://abhi.work) to see more of my work and for more details about my technical skills, check out my [resume](https://abhi.work/resume) and [linkedin](https://www.linkedin.com/in/abhivelaga/).
 
-Visit my [my website](https://abhi.work) to see more of my work and for more details about my technical skills, check out my [resume](https://abhi.work/images/Resume.pdf) and [linkedin](https://www.linkedin.com/in/abhivelaga/).
-
-In my free time, I enjoy producing [youtube videos](https://www.youtube.com/@abhi.velaga) of my journey learning to work on and modify my car as well as music under the artist name [Indulgent](https://open.spotify.com/artist/7JCVu8JTFAFrHqnYnGVPhi?si=TYVH66LvSUmQcKdWaE73uw).
+In my free time, I enjoy producing [youtube videos](https://www.youtube.com/@abhi.velaga) of my journey learning to restore and modify my car, making music under the artist name [Indulgent](https://open.spotify.com/artist/7JCVu8JTFAFrHqnYnGVPhi?si=TYVH66LvSUmQcKdWaE73uw), and producing [photography collections](https://www.abhi.work/portfolio)
