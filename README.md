@@ -2,7 +2,7 @@
 
 Hi! I'm a senior frontend engineer specializing in design systems and UI architecture - with experience spanning founding-stage startup and enterprise level products.
 
-I'm currently at [Biorce](https://biorce.com) as their founding US frontend engineer, building our design system from the ground up. I was previously at Visa shipping core design system components and white-labeled products across a micro frontend architecture.
+I'm currently at [Biorce](https://biorce.com) as their founding US frontend engineer, building our design system from the ground up. I was previously at Visa shipping core design system components and white-labeled products across a micro frontend architecture. Before that I studied both Computer Science and Studio Art at UT Austin.
 
 Check out my [my portfolio](https://abhi.work) to see more of my work and for more details about my technical skills, check out my [resume](https://abhi.work/resume) and [linkedin](https://www.linkedin.com/in/abhivelaga/).
 
